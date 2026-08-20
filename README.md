@@ -1,4 +1,4 @@
-````markdown
+
 # Vision Object Intelligence
 
 Modular object detection and scene intelligence pipeline built with PyTorch, OpenCV, and FastAPI.
